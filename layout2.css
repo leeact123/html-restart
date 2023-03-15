@@ -1,19 +1,24 @@
 * {
     margin: 0px;
 }
-.container_subject {
+.container {
     display: flex;
+    flex-direction: column;
     background-color: rgba(0, 0, 0, 0.1);
 
 }
+.content_block {
+    display: flex;
+    
+}
 
-.container_text {
-    width: 100%;
+.content_text {
+    width: 80%;
     
 }
 .writer {
     display: flex;
-    width: 80%;
+    width: 100%;
     align-items: center;
     margin: 10px;
     }
@@ -41,7 +46,7 @@ p {
 
 }
 
-.photo {
+.content_photo {
     width: 20%;
 }
 
