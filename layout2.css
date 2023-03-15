@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+}
+.container_subject {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.1);
+
+}
+
+.container_text {
+    width: 100%;
+    
+}
+.writer {
+    display: flex;
+    width: 80%;
+    align-items: center;
+    margin: 10px;
+    }
+    .write_info {
+        margin: 5px;
+    }
+ 
+    .writer img {
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+ }
+ 
+ .content {
+    margin-top: 20px;
+    margin-left: 20px;
+ }
+h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    
+}
+p {
+    color: gray;
+
+}
+
+.photo {
+    width: 20%;
+}
+
+img {
+    width: 100%;
+    
+ 
+}
