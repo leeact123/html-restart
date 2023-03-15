@@ -1,0 +1,86 @@
+.form-background {
+    background-color: black;
+    padding: 30px;
+
+}
+
+.form-white {
+    background-color: white;
+    padding: 30px;
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+}
+
+
+.title-box {
+
+}
+
+.email-box {
+
+}
+
+.email-box input {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.name-box {
+    display: flex;
+    width: 100%;
+
+}
+
+.first-name {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.first-name input {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+
+.last-name {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.last-name input {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.message-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.message-box input {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.send-box {
+
+}
+
