@@ -1,6 +1,29 @@
 * {
     margin: 0px;
 }
+
+.nav_box{
+    background-color: #7bed9f;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.navbar li {
+    background-color: rgba(0, 0, 0, 0.04);
+    padding:10px;
+    border-radius: 10px;
+}
+
+.navbar a {
+    
+    font-size: 30px;
+    text-decoration: none;
+    
+   
+}
 .container {
     display: flex;
     flex-direction: column;
