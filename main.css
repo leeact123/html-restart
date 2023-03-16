@@ -1,0 +1,14 @@
+@font-face {
+    font-family: '이쁜폰트';
+    src : url("../font/NanumSquareEB.otf");
+}
+
+
+body {
+    margin: 0px;
+    font-family: "이쁜폰트";
+}
+
+* {
+    box-sizing: border-box;
+}

@@ -1,0 +1,30 @@
+.menu__container {
+    display: flex;
+    width: 100%;
+   
+    justify-content: space-around;
+    background-color: whitesmoke;
+   
+}
+.menu__container i {
+    background-color: burlywood;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    color: white;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.menu__items {
+    padding: 20px;
+    margin: 50px 50px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+
+
